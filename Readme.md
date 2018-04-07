@@ -8,11 +8,12 @@ npm i less --save
 node lesstocss.js inputPath outputPath
 ```
 ### 0.0
-默认将`less文件`·内的所有less文件转换至`css文件夹`相同目录内
-| param | default | desc
-| :-:   | :-:    | :-:
-|inputPath| less | 转换此文件夹内`.less`
-|outputPath| css | 
+
+默认将`less文件`内的所有less文件转换至`css文件夹`相同目录内
+
+- 默认参数
+    + inputPath: less
+    + outputPath: css
 
 ## config
 在`lesstocss.js`内配置
