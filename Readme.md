@@ -1,5 +1,5 @@
 # less转css
-> 并没有什么用的一个东西， 2333  *just for fun*
+> 并没有什么用的一个东西， less本身提供了这个功能的...
 ## 执行
 在项目文件夹里， 用`node`执行`lesstocss.js`即可。（需已安装less, 2333）
 ```bash
